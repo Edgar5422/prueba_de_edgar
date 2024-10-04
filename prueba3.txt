@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Edgar5422/IAW_Edgar.git
+git branch -M main
+git push -u origin main
