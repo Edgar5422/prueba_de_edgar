@@ -84,7 +84,8 @@ git commit
 git push origin segunda
 ```
 
-![prueba](images/resolviendo_conf.PNG)
+![prueba](images/conflicto.PNG)
+
 
 **Captura de pantalla de la rama "segunda" sincronizada en el remoto**
 
